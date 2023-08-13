@@ -97,10 +97,18 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>🏠 DashBoard</em></strong></h3>
+<strong><em>📌 Pick Interest</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/dashboard/Dashboard.png">
+   <img src="./screenshots/home/Home.png">
+</div>
+
+<summary>
+<h3 style="display:inline">
+<strong><em>🏠 Home</em></strong></h3>
+</summary>
+<div align="center">
+   <img src="./screenshots/home/Home.png">
 </div>
 
 <summary>
