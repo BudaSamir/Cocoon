@@ -90,7 +90,7 @@
 </summary>
 <div align="center">
    <img src="./screenshots/Auth/Login.png">
-   <img src="./screenshots/auth/Forget Passowrd.png">
+   <img src="./screenshots/Auth/Signup.png">
    <img src="./screenshots/auth/Create New Password (1).png">
    <img src="./screenshots/auth/Verify Your Email.png">
 </div>
