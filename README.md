@@ -16,7 +16,6 @@
 - [🏁 Getting started](#getting-started)
 - [📦 Packages used](#packages-used)
 - [📷 Features](#features)
-- [✍️ Contributors](#contributors)
 - [🔒 License](#license)
 </details>
 <hr>
@@ -91,7 +90,7 @@
 <div align="center">
    <img src="./screenshots/Auth/Login.png">
    <img src="./screenshots/Auth/Signup.png">
-   <img src="./screenshots/auth/Create New Password (1).png">
+   <img src="./screenshots/Auth/ForgotPassword.png">
    <img src="./screenshots/auth/Verify Your Email.png">
 </div>
 
