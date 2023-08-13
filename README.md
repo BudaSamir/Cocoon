@@ -117,8 +117,7 @@
 <strong><em>⚔️ Challenges </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/meetings/Meetings.png">
-   <img src="./screenshots/meetings/Edit Meeting.png">
+   <img src="./screenshots/Challenges/ChallangeDetails.png">
 </div>
 
 <summary>
