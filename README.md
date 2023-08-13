@@ -91,7 +91,8 @@
    <img src="./screenshots/Auth/Login.png">
    <img src="./screenshots/Auth/Signup.png">
    <img src="./screenshots/Auth/ForgotPassword.png">
-   <img src="./screenshots/auth/Verify Your Email.png">
+   <img src="./screenshots/Auth/ResetPassword.png">
+   <img src="./screenshots/Auth/ResetPassword.png">    
 </div>
 
 <summary>
