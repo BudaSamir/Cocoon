@@ -114,7 +114,7 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>🤝🏻 Meetings </em></strong></h3>
+<strong><em>⚔️ Challenges </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/meetings/Meetings.png">
