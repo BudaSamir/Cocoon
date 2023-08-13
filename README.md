@@ -122,11 +122,12 @@
 
 <summary>
 <h3 style="display:inline">
-<strong><em>🕖 Sprints </em></strong></h3>
+<strong><em>📖 Course Details </em></strong></h3>
 </summary>
 <div align="center">
    <img src="./screenshots/sprint/Card Screen.png">
-
+    <img src="./screenshots/sprint/Card Screen.png">
+    <img src="./screenshots/sprint/Card Screen.png">
 </div>
 
 <summary>
