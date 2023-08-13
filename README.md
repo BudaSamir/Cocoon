@@ -125,20 +125,10 @@
 <strong><em>📖 Course Details </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/sprint/Card Screen.png">
-    <img src="./screenshots/sprint/Card Screen.png">
-    <img src="./screenshots/sprint/Card Screen.png">
+   <img src="./screenshots/Course Details/CourseDetails1.png">
+    <img src="./screenshots/Course Details/CourseDetails2.png">
+    <img src="./screenshots/Course Details/CourseDetails3.png">
 </div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em>👨‍💻👩‍💻👨‍💻👩‍💻 Teams </em></strong></h3>
-</summary>
-<div align="center">
-   <img src="./screenshots/teams/My Teams.png">
-</div>
-</table>
-
 
 ## 🔒 License <a name = "license"></a>
 
