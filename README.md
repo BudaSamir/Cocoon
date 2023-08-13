@@ -100,7 +100,8 @@
 <strong><em>📌 Pick Interest</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/home/Home.png">
+   <img src="./screenshots/Pick interest/Interests1.png">
+    <img src="./screenshots/Pick interest/Interests2.png">
 </div>
 
 <summary>
