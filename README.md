@@ -77,10 +77,10 @@
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
+    <img src="./screenshots/Splash Screen OnBoarding/SplashScreen.png">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding1.png">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding2.png">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding3.png">
-    
 </div>
 
 <summary>
